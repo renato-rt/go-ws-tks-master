@@ -1,0 +1,26 @@
+{
+    "numeroGuiaPrestador": "15359991422",
+    "codigoAutorizacao": 0,
+    "senhaAutorizacao": "",
+    "dataAutorizacao": "2020-11-28 08:38:03",
+    "descricaoGlosa": "",
+    "codigoGlosa": "",
+    "dataExpiracaoAutorizacao": null,
+    "procedimentosSolicitados": [
+        {
+            "codigoProcedimento": "33010021",
+            "descricaoProcedimento": "USG ABDOMEM TOTAL ABDOMEM SUPERIOR RINS RETRO PERITONIO BEXIGA",
+            "quantidadeSolicitada": 1,
+            "quantidadeAutorizada": 1,
+            "codigoStatus": "A",
+            "descricaoGlosa": "",
+            "codigoGlosa": ""
+        }
+    ],
+    "tipoGuia": "Externa",
+    "numeroConselhoProfissional": "8054",
+    "nomeProfissional": "KENNEDY CARLOS DA COSTA SILVA",
+    "nomeBeneficiario": "MARIA DO SOCORRO TENAGLIA",
+    "cpf": "361.122.161-91",
+    "numeroCarteira": "390856903"
+}
